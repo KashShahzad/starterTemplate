@@ -1,0 +1,11 @@
+.header {
+  font-size: 1.4rem;
+  padding: 5rem auto;
+  box-shadow: 0 2rem 6rem rgba(0, 0, 0, 0.1);
+  background-color: white;
+  border-bottom: var(--color-primary-dark);
+  min-height: 7rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
